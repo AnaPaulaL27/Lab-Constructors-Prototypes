@@ -12,7 +12,7 @@ In this exercise we will explore some of the differences between how classes are
 
 ## Task -DONE ✅
 
-- Create ` Car` class. The car should have properties representing manufacturer, price and engine type. DONE
+- Create a` Car` class. The car should have properties representing manufacturer, price and engine type. DONE
 
 - Set up Jest and write tests to make sure you can access each of those properties in a `Car` object.
 
