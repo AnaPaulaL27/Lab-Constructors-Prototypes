@@ -1,6 +1,10 @@
 # Lab-Constructors-Prototypes- Dealership
 
+<p align="center">
 ![image](https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2013/07/Car-dealership.-Picture-courtesy-of-speedfactorycars.com_.jpg?w=600&ssl=1)
+</p>
+
+
 
 # Exercise - Constructors & Prototypes
 
