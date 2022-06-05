@@ -10,7 +10,7 @@
 
 In this exercise we will explore some of the differences between how classes are defined in Java and JavaScript. We're going to revisit the car dealership and recreate the classes, including their properties and behaviours, using JavaScript.
 
-## Task
+## Task -DONE ✅
 
 - Create ` Car` class. The car should have properties representing manufacturer, price and engine type. DONE
 
@@ -25,7 +25,7 @@ In this exercise we will explore some of the differences between how classes are
 	- Find the total value of all the cars in stock
 - Write tests for `Dealership`'s methods.
 
-## Extensions
+## Extensions- DONE ✅
 
 - Modify and test the method for adding a car to stock to ensure we can't add more cars than we have space for.
 - Add a `Customer` class with a name, a wallet representing the amount of money they have and a `car` property which is initialised to be `null`. Give them a `buyCar` method which removes a `Car` from a `Dealership` and updates their `car` property. Write tests to ensure all possible conditions are met, eg. the customer can afford the car.
