@@ -1,8 +1,9 @@
 # Lab-Constructors-Prototypes- Dealership
 
 <p align="center">
-  <img src="[https://i2-prod.essexlive.news/incoming/article3441391.ece/ALTERNATES/s615b/2_Nandos.jpg](https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2013/07/Car-dealership.-Picture-courtesy-of-speedfactorycars.com_.jpg?w=600&ssl=1)" />
+  <img src="https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2013/07/Car-dealership.-Picture-courtesy-of-speedfactorycars.com_.jpg?w=600&ssl=1"/>
 </p>
+
 
 
 # Exercise - Constructors & Prototypes
