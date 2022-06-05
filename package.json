@@ -1,0 +1,19 @@
+{
+  "name": "task_constructors_prototypes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Car.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "systeminformation": "^5.11.16"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.0",
+    "jest": "^28.1.0",
+    "supertest": "^6.2.3"
+  }
+}
